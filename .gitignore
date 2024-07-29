@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#地图数据
+*.wkbs
+
+#java运行文件夹
+target
