@@ -402,3 +402,4 @@ FodyWeavers.xsd
 
 #java运行文件夹
 target
+*.class
