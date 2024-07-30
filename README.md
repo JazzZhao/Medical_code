@@ -1,2 +1,4 @@
 # Medical_code
-关于医疗数据分析的代码
+CHARLS_P中是对CHARLS数据进行处理的程序
+NHANES_P中是对NHANES数据进行处理的程序
+AreaCity-Query-Geometry中是对坐标数据进行处理的程序
